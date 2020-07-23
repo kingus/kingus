@@ -1,4 +1,7 @@
 ![alt text](https://github.com/kingus/kingus/blob/master/my_logo.png)
+
+
+Once I was just outside Barcelona hiking in the foothills of Mount Tibidabo. I was at the end of this path and I came to a clearing and there was a lake, very secluded. And there were tall trees all around. It was dead silent. Gorgeous. And across the lake I felt incredible love for coding. Since then, my life has changed and I realized what really matters in life. I started to foster my creativity by writing clean code using KISS, SOLID and DRY principles.
 <!--
 **kingus/kingus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
