@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![alt text]("https://github.com/kingus/kingus/blob/master/my_logo.png")
 <!--
 **kingus/kingus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
